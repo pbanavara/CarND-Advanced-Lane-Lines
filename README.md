@@ -1,7 +1,7 @@
 The following files are to be reviewd
 
 adv_lane_finding.ipynb
-Udacity_Carnd_find_lanes.pdf
+Udacity_Advanced_lane_lines_report.pdf
 
 The output video is uploaded to youtube at this link
 https://www.youtube.com/watch?v=RN5izkvyIoE
